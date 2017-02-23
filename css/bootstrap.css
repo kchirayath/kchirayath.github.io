@@ -10,12 +10,11 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
-#top {
-    background-image: url("background.jpg");
-}
 body {
-  margin: 0;
+  margin:0;
 }
+
+
 
 article,
 aside,
